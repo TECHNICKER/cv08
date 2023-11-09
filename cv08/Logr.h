@@ -2,4 +2,4 @@
 
 #include <iostream>
 
-int prunik(double zacatek1, double konec1, double zacatek2, double konec2, double* vysl_zacatek, double* vysl_konec);
+int intersection(double* set1, double* set2, double* result);
